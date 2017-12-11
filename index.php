@@ -1,4 +1,4 @@
-<?php include 'cart.php'; ?>
+<?php include 'ShoppingCart.php'; ?>
 <html>
     <head></head>
     <body>
