@@ -57,7 +57,7 @@ function paypal_items() {
     }
 }
 
-function cart() {
+function shoppingcart() {
     foreach ($_SESSION as $name => $value) {
         if ($value > 0) {
             if (substr($name, 0, 5) == 'cart_') {
