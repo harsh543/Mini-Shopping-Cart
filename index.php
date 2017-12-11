@@ -4,7 +4,7 @@
     <body>
         
         <?php 
-        cart();
+        shoppingcart();
         products(); ?>
         
     </body>
